@@ -1,4 +1,4 @@
-import plivo
+import plivos
 
 auth_id = "MAOTA1NTHMNGU4YZHIMW"
 
